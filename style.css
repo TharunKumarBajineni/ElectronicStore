@@ -1,0 +1,185 @@
+
+*{
+    border: 0px;
+    margin:0px;
+    flex-flow: wrap;
+}
+    
+.main{
+    display:flex;
+    flex-flow: wrap;
+    background-image: url("pexels-gradienta-7130469.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    border:none; 
+
+}
+
+.logo{
+    flex: 1;
+    margin: 20px;
+}
+
+.Menu{
+    flex: 1;
+    font-size:17px;
+    font-family:unset;
+    color: darkred;
+    text-align:end;
+    padding-right: 70px;
+
+}
+
+ul{
+    list-style-type: none;
+    padding-top: 90px;
+    text-decoration: none; 
+}
+
+ul a{
+    padding-inline-start: 9px;
+}
+
+.top{
+    background-image:url("pexels-gradienta-7130469.jpg");
+    background-repeat: no-repeat;
+    background-position:right top;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    position: relative;
+    width: auto;
+    font-size: large;
+}
+
+.blockquote{
+    font-family: 'Actor';
+    background-color: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+}
+
+.blockquote1{
+
+    font-style: oblique;
+    background: linear-gradient( 60deg, #E21143, #FFB03A );
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;   
+}
+.text-center{
+    justify-content: center;
+
+}
+
+#title{
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    background: -webkit-linear-gradient(to right, #ff0000, #9932cc); 
+    background: linear-gradient(to right, #ff0000, #9932cc);
+    -webkit-background-clip: text;
+    background-clip: text;
+    
+    height: auto;
+    width: 100%;  
+    position: relative; 
+}
+#motto{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 25px;
+    font-style: oblique;
+    background: linear-gradient( 60deg, #E21143, #FFB03A );
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;   
+}
+
+.ctgs{
+    text-align: center;
+    font-family: font-family: 'Dekko';
+    background-color:cornsilk;
+    padding: 50px;
+    
+}
+
+.container{
+    display:flex;
+    width: auto;
+    height:auto ;
+    background-color:cornsilk;
+    flex-flow: wrap;
+    justify-content: space-around;
+    background-repeat: no-repeat;
+    background-position:right top;
+    background: scroll;
+    
+    background-size: cover;
+}
+
+.products{
+    width: auto;
+    height: auto;
+    background-color:cornsilk;
+    margin: 20px;
+    box-sizing: 50px;
+    border: 1px solid navy;
+}
+
+.name{
+    text-align: center;
+    font-weight: bold;
+}
+
+.body2{
+    display:flex;
+    flex-flow: wrap;
+    background-color: blanchedalmond;
+    padding: 50px;
+    font-family: sans-serif;  
+}
+
+.Gmail{
+    padding-top: 20px;
+    padding-right: 60px;
+    font-family: 'Didact Gothic';
+}
+
+.locations{
+    font-size: 13px;
+    font-weight: bold;
+    padding-top: 5px;
+    font-family: 'Didact Gothic';
+}
+
+.Quick_Links{
+    font-size: 13px;
+    font-weight: bold;
+    padding-left: 20px;
+    font-family: 'Didact Gothic';
+}
+
+.number{
+    text-align: center; 
+    font-family: 'Didact Gothic';
+}
+
+.footer{
+    color:antiquewhite;
+    background-color: black;
+    font-style: inherit;
+    padding: 10px;
+    text-align: center;
+    flex-flow: wrap;
+    font-family: 'Didact Gothic';
+    
+   
+}
+.guidelines{
+  
+    text-align: center;
+    flex: 1;
+    font-size:15px;
+    font-family:unset;
+    padding-bottom: 50px;
+    font-family: 'Didact Gothic';
+    
+}

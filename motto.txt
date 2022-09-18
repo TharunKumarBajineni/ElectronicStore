@@ -1,0 +1,7 @@
+A new world for electronic products 
+
+
+<span class="home">Home</span>
+        <span class="products">Products</span>
+        <span class="Contact">Contact Us</span>
+        <span class="about">About</span>
